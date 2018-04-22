@@ -1,0 +1,158 @@
+INTERNAL
+{
+	name = da42_internal
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = pilot
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb_2
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb_3
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb_4
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb_5
+	}
+	MODULE
+	{
+		name = InternalSeat
+		seatTransformName = kerb_6
+	}
+	PROP
+	{
+		name = commandPodCase
+		position = -1.466733E-07,-0.7187946,0.08925647
+		rotation = -0.5,-0.5,0.5,0.5
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodCase
+		position = 0.2777168,-0.7187946,0.08925647
+		rotation = -0.5,0.5,-0.5,0.5
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodCase
+		position = -0.2777168,-0.7187946,0.08925647
+		rotation = -0.5,-0.5,0.5,0.5
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = 1.305123E-05,0.5206442,-0.7462492
+		rotation = 6.123234E-17,1,-6.123234E-17,-3.828569E-16
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_pilot
+		position = 1.305123E-05,0.7304443,0.08865082
+		rotation = 6.123234E-17,-3.828569E-16,6.123234E-17,-1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = 0.4537443,0.2658539,-0.3918136
+		rotation = 6.123234E-17,1,-6.123234E-17,-3.828569E-16
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_right
+		position = 0.4537443,0.4758539,0.0891864
+		rotation = 6.123234E-17,-3.828569E-16,6.123234E-17,-1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_left
+		position = -0.4537443,0.4768539,0.0891864
+		rotation = 0,0,0,1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = -0.4537443,0.2658539,-0.3918136
+		rotation = -6.123234E-17,1,-6.123234E-17,-3.828569E-16
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_left_v2
+		position = -0.8663626,0.1116246,0.0898864
+		rotation = 6.123234E-17,-3.828569E-16,6.123234E-17,-1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = -0.8663626,-0.09237543,-0.3918136
+		rotation = -6.123234E-17,1,-6.123234E-17,-3.828569E-16
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_right
+		position = -0.4537443,-0.3519383,0.08918631
+		rotation = 6.123234E-17,0,6.123234E-17,-1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = -0.4537443,-0.5609383,-0.3918136
+		rotation = -6.123234E-17,1,6.123234E-17,4.371139E-08
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = 0.4537443,-0.5609383,-0.3918136
+		rotation = 6.123234E-17,1,6.123234E-17,4.371139E-08
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_left
+		position = 0.4537442,-0.3519383,0.08918628
+		rotation = 0,0,0,1
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodSeat
+		position = 0.8663626,-0.09237543,-0.3918136
+		rotation = 6.123234E-17,1,-6.123234E-17,-3.828569E-16
+		scale = 1,1,1
+	}
+	PROP
+	{
+		name = commandPodStruts_right_v2
+		position = 0.8663626,0.1159246,0.0898864
+		rotation = 0,0,0,1
+		scale = 1,1,1
+	}
+}
