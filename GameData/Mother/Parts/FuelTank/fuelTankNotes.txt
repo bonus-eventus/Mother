@@ -1,0 +1,33 @@
+######################################################################################
+How to calculate the mass and volume of a rocket fuel tank
+######################################################################################
+
+The components of a typical bipropellant rocket fuel tank are as follows.
+
+3 Tank Skirts - One at the top, one in between the tanks, and one at the bottom
+
+3 Intertanks (pressure vessels) - Oxidizer, Fuel, and helium or some other inert gas for pressurization. 
+
+2 External Conduits
+
+4 Feed Lines - From tanks to engines and from helium pressure vessel to both propellant pressure vessels
+
+Access panels
+
+######################################################################################
+
+Fuel tanks have walls which consist of longerons (or stringers) that give stiffness and 
+structural integrity. They look much like a typical aircraft air frame.
+
+They also have top and bottom domes called 'heads'.
+
+From wikipedia: 
+
+	A sphere is the ideal shape for a head, because the pressure in 
+	the vessel is divided equally across the surface of the head. The radius (r) of 
+	the head equals the radius of the cylindrical part of the vessel.
+
+	Ellipsoidal head
+	This is also called an elliptical head. The shape of this head is more economical, 
+	because the height of the head is just a fraction of the diameter. Its radius varies 
+	between the major and minor axis; usually the ratio is 2:1.
